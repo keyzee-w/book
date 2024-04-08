@@ -1,1 +1,0 @@
-<footer class="fixed">Copyright © wisenode 2015 </footer>
